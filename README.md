@@ -1,4 +1,4 @@
-`voidbot`
+# `voidbot`
 
 Discord bot that post pictures of Void the cat.
 
